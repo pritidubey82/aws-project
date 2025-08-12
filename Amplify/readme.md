@@ -2,9 +2,6 @@
 
 Welcome to the Serverless Web App Project! This README provides you with all the information you need to get started with our serverless web application built using AWS Amplify, AWS Lambda, DynamoDB, and API Gateway.
 
-## :rocket: Introduction
-
-Our project allows you to create a serverless web application that calculates the area of a rectangle based on user-provided length and width values. This README serves as a quick guide, but the full details and a step-by-step tutorial can be found [here](https://medium.com/@kevinkiruri/serverless-web-app-development-made-easy-a-complete-guide-with-aws-amplify-dynamodb-lambda-and-052daf5b978d), authored by [Kevin Kiruri](https://www.linkedin.com/in/kevin-kiruri/).
 
 ## :scroll: Quick Start
 
